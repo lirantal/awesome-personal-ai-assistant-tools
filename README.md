@@ -14,6 +14,7 @@ A curated list of awesome tools, integrations, and resources dedicated to AI age
 ## Productivity & Integration
 
 *   **gog** - Google integration for calendar, drive, and gmail. Allows AI assistants to manage your schedule and documents seamlessly.
+*   **[Screenpipe](https://github.com/screenpipe/screenpipe)** - Local-first 24/7 screen and microphone recorder that indexes OCR, accessibility, and transcripts as context for personal AI assistants.
 
 ## Web Research & Search
 
