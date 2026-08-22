@@ -15,6 +15,8 @@ A curated list of awesome tools, integrations, and resources dedicated to AI age
 
 *   **gog** - Google integration for calendar, drive, and gmail. Allows AI assistants to manage your schedule and documents seamlessly.
 
+*   **Persona** - Local-first personal workspace. Notes and tasks as plain Markdown on your machine; the AI assistant answers grounded in your own files.
+
 ## Web Research & Search
 
 *   **exa** - Web research tool. Perfect for getting a quick summary about a person's background right prior to a meeting.
