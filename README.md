@@ -19,6 +19,7 @@ A curated list of awesome tools, integrations, and resources dedicated to AI age
 
 *   **exa** - Web research tool. Perfect for getting a quick summary about a person's background right prior to a meeting.
 *   **brave** - Web search integration for fast and privacy-focused information retrieval.
+*   **[Pocket Drives](https://pocketdrives.ai/mcp)** - Search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Remote Streamable HTTP, no auth.
 
 ## Marketing & Outreach
 
