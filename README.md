@@ -15,6 +15,8 @@ A curated list of awesome tools, integrations, and resources dedicated to AI age
 
 *   **gog** - Google integration for calendar, drive, and gmail. Allows AI assistants to manage your schedule and documents seamlessly.
 
+*   [Orkas](https://orkas.ai/?source=gh_lirantal) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 ## Web Research & Search
 
 *   **exa** - Web research tool. Perfect for getting a quick summary about a person's background right prior to a meeting.
