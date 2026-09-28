@@ -19,6 +19,7 @@ A curated list of awesome tools, integrations, and resources dedicated to AI age
 
 *   **exa** - Web research tool. Perfect for getting a quick summary about a person's background right prior to a meeting.
 *   **brave** - Web search integration for fast and privacy-focused information retrieval.
+*   **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** - Background check any company in the world: registration, executives, courts and finances. Remote MCP: `https://statsnet.co/mcp`.
 
 ## Marketing & Outreach
 
